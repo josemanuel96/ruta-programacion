@@ -52,3 +52,17 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# Archivos temporales
+*.user
+*.suo
+*.cache
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
