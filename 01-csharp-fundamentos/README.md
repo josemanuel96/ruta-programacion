@@ -9,7 +9,7 @@ Dominar lo básico de C# y lógica: variables, condicionales, bucles, métodos y
 - Commits pequeños por avances
 
 ## Checklist (7 días)
-- [ ] Día 1: Variables, tipos, entrada/salida (Console)
+- [X] Día 1: Variables, tipos, entrada/salida (Console)
 - [ ] Día 2: if/else y validaciones
 - [ ] Día 3: switch + menú
 - [ ] Día 4: for / while / do-while
